@@ -1,0 +1,10 @@
+body {
+  min-height: 100vh;
+  background: #242424;
+  color: white;
+}
+
+.bg-blur {
+  backdrop-filter: blur(5px);
+  z-index: 9999;
+}
